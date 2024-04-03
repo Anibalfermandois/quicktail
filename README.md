@@ -17,7 +17,7 @@ Quicktail operators are here to make your Python coding experience smoother and 
   
 
 ### Customize output:
-```
+```python
 from quicktail import tailprint
 
 # Instead of:
@@ -25,17 +25,17 @@ from quicktail import tailprint
 json.dumps(function(some_class.raw_data())) | tailprint(width=3)
 # Get immediate formatting without interrupting your code flow!
 
-```
+```python
 ### Define Your Own End of Line Operator
 With Quicktail Operators, you can define your custom end-of-line operator to fit your needs:
 
-```
+```python
 toFile = TailOp(file.write)
 "username" | toFile
 ```
 
 ### Installation
-```
+```bash
 pip install quicktail
 ```
 
