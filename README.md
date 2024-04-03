@@ -1,4 +1,4 @@
-# Quicktail Operators
+# 🚀Quicktail Operators  ⎮
 
 Are you tired of wrapping everything in parentheses for quick and dirty prototyping? Annoyed by those pesky prefix prints that get in the way of your workflow? If you're still here, congratulations! You're in for a treat with **quicktail operators**.
 
